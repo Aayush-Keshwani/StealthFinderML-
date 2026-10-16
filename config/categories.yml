@@ -1,0 +1,39 @@
+# Stealth-Spend Category Taxonomy Configuration
+categories:
+  - Income
+  - Housing
+  - Utilities
+  - Groceries
+  - Dining
+  - Transport
+  - Shopping
+  - Health
+  - Education
+  - Entertainment
+  - Travel
+  - Subscriptions
+  - Fees
+  - Transfers
+  - Cash Withdrawal
+  - Refund
+  - Other
+  - Needs Review
+
+essential_categories:
+  - Housing
+  - Utilities
+  - Groceries
+  - Health
+  - Transport
+
+discretionary_categories:
+  - Dining
+  - Shopping
+  - Entertainment
+  - Travel
+  - Subscriptions
+
+non_expense_categories:
+  - Income
+  - Transfers
+  - Refund

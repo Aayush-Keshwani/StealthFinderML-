@@ -1,0 +1,4 @@
+year_month,total_debit,total_credit,net_flow,tx_count,median_tx_size,essential_ratio,discretionary_ratio,share_dining,share_groceries,share_housing,share_shopping,share_transport,share_utilities,cluster_id,pca_x,pca_y,persona
+2016-08,13975787.6,0.0,-13975787.6,9183,400.0,0.696,0.304,0.085,0.202,0.251,0.219,0.029,0.214,0,-2.4999253994601043,-0.5068196713500751,Essential Saver (Housing-Dominant)
+2016-09,59199430.12,0.0,-59199430.12,37275,423.25,0.708,0.292,0.088,0.191,0.276,0.204,0.027,0.215,0,-1.3940805371344813,0.612805822006347,Essential Saver (Housing-Dominant)
+2016-10,7404677.25,0.0,-7404677.25,3542,465.0,0.746,0.254,0.069,0.148,0.412,0.184,0.02,0.167,1,3.8940059365945854,-0.1059861506562716,Essential Saver (Housing-Dominant)

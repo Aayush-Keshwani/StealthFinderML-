@@ -1,0 +1,9 @@
+Model_Type,Primary_Metric,Value,Secondary_Metric,Secondary_Value
+Categorizer (Dummy Baseline),Macro F1,0.09129635008229257,Accuracy,0.3772
+Categorizer (Logistic Regression),Macro F1,0.9427977262338918,Accuracy,0.98472
+Categorizer (XGBoost),Macro F1,0.99995969208323,Accuracy,0.99992
+Forecaster (Naive),MAE ($),4449.21,RMSE ($),5768.79
+Forecaster (Seasonal Naive),MAE ($),8252.51,RMSE ($),10283.81
+Forecaster (Moving Average 7D),MAE ($),2884.32,RMSE ($),3066.87
+Forecaster (Gradient Boosting),MAE ($),66734.37,RMSE ($),79050.65
+Clustering (K-Means Personas),Silhouette Score,0.4864949539957477,Optimal K,2.0
